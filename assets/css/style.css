@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+     .column{
+         background-color: crimson;
+     }
+    body {
+        font-size: small;
+        color: brown;
+        background-color: cornflowerblue;
+    }
+
+    .title{
+        background-color: #fff; 
+    }
+}
+ 
